@@ -1,0 +1,546 @@
+{
+  "updated": "2026-11-16",
+  "studios": [
+    {
+      "id": "africacreativetech",
+      "name": "AfricaCreativeTech",
+      "group": "Africa Creative (Grupo ABC)",
+      "country": "BR",
+      "city": "São Paulo",
+      "focus": ["IA", "Dados", "Automação"],
+      "site": "https://www.africacreative.com.br/pt/",
+      "instagram": "africaoficial",
+      "confirmed": true,
+      "notes": "Hub de IA da agência, comandado pelo CTO. A Africa diz ter uma área de IA forte e crescendo.",
+      "sources": [{"label": "Propmark", "url": "https://propmark.com.br/agencias/africa-creative-tera-um-hub-focado-em-integrar-dados-automacao-e-criatividade/"}],
+      "contacts": [
+        {"name": "Bruno Mosconi", "role": "CTO, líder da AfricaCreativeTech", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Sergio Gordilho", "role": "Co-presidente e CCO", "kind": "Decisor", "priority": "Baixa", "note": "Contato de topo. Falar depois do time de IA."}
+      ]
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick Studio",
+      "group": "Africa Creative? (a confirmar)",
+      "country": "BR",
+      "city": "",
+      "focus": ["IA"],
+      "site": "",
+      "instagram": "maverick.studio.ai",
+      "confirmed": false,
+      "notes": "Achei o perfil @maverick.studio.ai, mas nenhuma fonte liga ele à Africa. Confirmar antes de contatar. Não é o Maverick Frame Studio (Londres).",
+      "sources": [],
+      "contacts": []
+    },
+    {
+      "id": "global-studio",
+      "name": "Global Studio",
+      "group": "Agência Global",
+      "country": "BR",
+      "city": "",
+      "focus": ["IA generativa", "Audiovisual", "Motion"],
+      "site": "https://global.tt/global-studio/",
+      "instagram": "",
+      "confirmed": true,
+      "notes": "Lançado em ago/2026. Atende também marcas de fora da carteira da agência.",
+      "sources": [{"label": "Grandes Nomes", "url": "https://grandesnomesdapropaganda.com.br/produtora/global-anuncia-o-lancamento-do-global-studio/"}, {"label": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/comunicacao/agencia-global-aposta-em-ia-generativa-e-lanca-estudio"}],
+      "contacts": [
+        {"name": "Vini Marques", "role": "Direção criativa", "kind": "Criação", "priority": "Alta"},
+        {"name": "Jordana Rosa", "role": "Frente comercial", "kind": "Novos negócios", "priority": "Alta"},
+        {"name": "Roberto Simões", "role": "Infraestrutura e execução", "kind": "Produção", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "fh-studio",
+      "name": "FH Studio",
+      "group": "FourHands",
+      "country": "BR",
+      "city": "",
+      "focus": ["IA generativa", "Motion"],
+      "site": "https://www.fourhands.com.br",
+      "instagram": "fourhandsagencia",
+      "confirmed": true,
+      "notes": "Estrutura de IA montada em jan/2026: motion, design com IA e engenharia de prompts.",
+      "sources": [{"label": "Propmark", "url": "https://propmark.com.br/agencias/hub-de-ia-da-fourhands-estima-reducao-de-20-a-30-nos-custos-de-projetos/"}],
+      "contacts": [
+        {"name": "Ayron Rotta", "role": "Diretor de criação", "kind": "Criação", "priority": "Alta"}
+      ]
+    },
+    {
+      "id": "monking",
+      "name": "Estúdio de IA da Monking",
+      "group": "Monking (com Treehouz)",
+      "country": "BR",
+      "city": "",
+      "focus": ["IA generativa", "Audiovisual", "3D"],
+      "site": "https://www.monking.com.br",
+      "instagram": "monking.br",
+      "confirmed": true,
+      "notes": "Estúdio-laboratório de audiovisual com IA generativa.",
+      "sources": [{"label": "Startups", "url": "https://startups.com.br/negocios/inteligencia-artificial/monking-lanca-estudio-de-audiovisual-apos-investimento-em-startup-de-ia/"}, {"label": "Startups (Daniel Leal)", "url": "https://startups.com.br/danca-das-cadeiras/monking-anuncia-novo-diretor-criativo-de-audiovisual-e-estudios/"}],
+      "contacts": [
+        {"name": "Daniel Leal", "role": "Diretor criativo de audiovisual e estúdios", "kind": "Criação", "priority": "Alta"},
+        {"name": "Eduardo Vieira", "role": "Cofundador e CEO", "kind": "Decisor", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "wpp-production",
+      "name": "WPP Production Brasil (ex-Hogarth)",
+      "group": "WPP",
+      "country": "BR",
+      "city": "São Paulo",
+      "focus": ["Produção híbrida com IA", "Produção virtual"],
+      "site": "https://www.wppproduction.com",
+      "instagram": "wpp_production_",
+      "confirmed": true,
+      "notes": "Hub no WPP Campus (Vila Leopoldina) com equipe fixa de 60+. A Hogarth foi integrada à WPP Production.",
+      "sources": [{"label": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/comunicacao/wpp-production-inaugura-hub-em-sao-paulo"}, {"label": "Propmark (Hogarth)", "url": "https://propmark.com.br/agencias/a-estrategia-da-hogarth-para-escalar-campanhas-com-ia/"}],
+      "contacts": [
+        {"name": "Luiza Pagliarini", "role": "Head de produção integrada", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Rafael Nasser", "role": "CEO / diretor geral (Hogarth Brasil)", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Matheus Machado", "role": "Diretor de novos negócios (Hogarth)", "kind": "Novos negócios", "priority": "Média", "note": "Cargo anunciado em 2023. Confirmar se segue lá."}
+      ]
+    },
+    {
+      "id": "publicis-production",
+      "name": "Publicis Production",
+      "group": "Publicis Groupe",
+      "country": "BR",
+      "city": "",
+      "focus": ["Produção", "Conteúdo com IA"],
+      "site": "",
+      "instagram": "publicisproduction_brasil",
+      "confirmed": true,
+      "notes": "Ex-PXP, renomeada em fev/2026.",
+      "sources": [{"label": "ABC da Comunicação", "url": "https://www.abcdacomunicacao.com.br/?p=339656"}],
+      "contacts": [
+        {"name": "Tato Bono", "role": "Presidente", "kind": "Decisor", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "oliver",
+      "name": "Oliver Brasil",
+      "group": "Brandtech Group",
+      "country": "BR",
+      "city": "",
+      "focus": ["Conteúdo AI-first"],
+      "site": "",
+      "instagram": "oliverlatinamerica",
+      "confirmed": true,
+      "notes": "Área de conteúdo com 93 profissionais.",
+      "sources": [{"label": "Propmark", "url": "https://propmark.com.br/agencias/oliver-reestrutura-area-de-conteudo-no-brasil-com-foco-em-ia/"}],
+      "contacts": [
+        {"name": "Marcello Rullo", "role": "Diretor executivo de criação e conteúdo", "kind": "Criação", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "vetor-zero-lobo",
+      "name": "Vetor Zero/Lobo",
+      "group": "Independente",
+      "country": "BR",
+      "city": "São Paulo / Nova York",
+      "focus": ["3D", "Animação", "VFX", "IA"],
+      "site": "https://vetorzero.com.br",
+      "instagram": "vetorzero",
+      "extraLinks": [{"label": "lobo.cx", "url": "https://www.lobo.cx"}, {"label": "@lobo.cx", "url": "https://www.instagram.com/lobo.cx/"}],
+      "confirmed": true,
+      "notes": "Lobo é o braço internacional (NY).",
+      "sources": [{"label": "Marcas pelo Mundo", "url": "https://marcaspelomundo.com.br/produtoras/vetor-zero-lobo-anuncia-luiz-braga-como-diretor-de-novos-negocios"}, {"label": "Marcas pelo Mundo", "url": "https://marcaspelomundo.com.br/produtoras/thais-lopes-retorna-a-vetor-zero-lobo-como-gerente-de-projetos/"}],
+      "contacts": [
+        {"name": "Luiz Braga", "role": "Diretor de novos negócios", "kind": "Novos negócios", "priority": "Alta"},
+        {"name": "Sergio Salles", "role": "Sócio diretor", "kind": "Decisor", "priority": "Média"},
+        {"name": "Márcia Guimarães", "role": "Diretora de projetos", "kind": "Produção", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "big-studios",
+      "name": "BIG Studios",
+      "group": "Independente",
+      "country": "BR",
+      "city": "São Paulo",
+      "focus": ["3D", "Character design", "IA"],
+      "site": "https://bigstudios.com.br",
+      "instagram": "big_studios",
+      "confirmed": true,
+      "notes": "Cerca de 40–45% do faturamento vem de fora do Brasil.",
+      "sources": [{"label": "Jornal do Brás", "url": "https://jornaldobras.com.br/noticia/98752/inteligencia-artificial-na-animacao-3d-a-facilidade-e-uma-ilusao"}, {"label": "ANBA", "url": "https://anba.com.br/en/big-studios-partners-with-arab-producer/"}, {"label": "Marcas pelo Mundo", "url": "https://marcaspelomundo.com.br/produtoras/mariana-pennone-assume-como-head-de-negocios-da-big/"}],
+      "contacts": [
+        {"name": "Ricardo Big Passos", "role": "Fundador e Creative VP", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Nelson Alves Neto", "role": "VP executivo e sócio", "kind": "Decisor", "priority": "Média"},
+        {"name": "Mariana Pennone", "role": "Head de negócios", "kind": "Novos negócios", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "spritz-ai",
+      "name": "Spritz.AI",
+      "group": "Barry Company",
+      "country": "BR",
+      "city": "",
+      "focus": ["IA", "Filmes híbridos"],
+      "site": "",
+      "instagram": "spritz.ai",
+      "confirmed": true,
+      "notes": "Fez \"Queridinha da Vovó\" (David/Heinz).",
+      "sources": [{"label": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/comunicacao/ia-modifica-a-producao-audiovisual-e-eleva-o-valor-do-craft"}, {"label": "Propmark", "url": "https://propmark.com.br/produtoras/novo-estudio-spritz-ai-chega-ao-mercado/"}],
+      "contacts": [
+        {"name": "Krysse Mello", "role": "Sócia e produtora executiva", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Vinicius Terranova", "role": "Diretor de cena e sócio", "kind": "Criação", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "eyeball",
+      "name": "Eyeball",
+      "group": "Sentimental Filme",
+      "country": "BR",
+      "alsoCountry": "PT",
+      "city": "São Paulo / Lisboa",
+      "focus": ["IA generativa"],
+      "site": "",
+      "instagram": "eyeballthestudio",
+      "confirmed": true,
+      "notes": "Lançado em out/2026. Ponte direta entre São Paulo e Lisboa.",
+      "sources": [{"label": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/comunicacao/sentimental-filme-amplia-atuacao-com-estudio-de-ia"}, {"label": "Marcas pelo Mundo", "url": "https://marcaspelomundo.com.br/produtoras/socios-da-sentimental-filme-criam-eyeball-estudio-de-inteligencia-artificial/"}],
+      "contacts": [
+        {"name": "Flavia Zanini", "role": "Produtora executiva e cofundadora", "kind": "Decisor", "priority": "Alta"},
+        {"name": "André Batista", "role": "Designer de IA e cofundador", "kind": "Criação", "priority": "Alta"},
+        {"name": "Marcos Medeiros", "role": "Sócio e CCO", "kind": "Criação", "priority": "Média"},
+        {"name": "Marcos Araujo", "role": "Sócio", "kind": "Decisor", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "akkira",
+      "name": "Akkira",
+      "group": "Independente",
+      "country": "BR",
+      "city": "São Paulo",
+      "focus": ["IA", "VFX", "Produção virtual"],
+      "site": "",
+      "instagram": "studio_akkira",
+      "confirmed": true,
+      "notes": "Lançado em jul/2026. Fez o clipe em IA do Falamansa (10M+ views). O fundador passou pela Galeria.",
+      "sources": [{"label": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/comunicacao/akkira-quer-unir-craft-de-cinema-a-ia"}, {"label": "Grandes Nomes", "url": "https://grandesnomesdapropaganda.com.br/produtora/akkira-amplia-casting-com-diretor-de-criacao-e-ia-kazuo-kubo/"}],
+      "contacts": [
+        {"name": "Marcelo Fernandes Ferreira", "role": "Fundador (Tchelo.ko)", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Kazuo Kubo", "role": "Diretor de criação e IA (casting)", "kind": "Criação", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "imaginar-ia",
+      "name": "imaginar.ia",
+      "group": "Santeria",
+      "country": "BR",
+      "city": "",
+      "focus": ["IA na pré e pós-produção"],
+      "site": "https://santeria.tv",
+      "instagram": "imaginar.ia_",
+      "confirmed": true,
+      "notes": "Braço de IA da Santeria.",
+      "sources": [{"label": "Marcas pelo Mundo", "url": "https://marcaspelomundo.com.br/produtoras/imaginar-ia-coloca-a-inteligencia-artificial-no-dia-a-dia-da-criacao-de-filmes/"}],
+      "contacts": [
+        {"name": "Felipe Luchi", "role": "Sócio e diretor criativo", "kind": "Decisor", "priority": "Média"},
+        {"name": "Rafa Damy", "role": "Diretor de cena e sócio", "kind": "Criação", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "daydream",
+      "name": "Daydream Studio AI",
+      "group": "Independente",
+      "country": "BR",
+      "city": "",
+      "focus": ["Filmes publicitários com IA"],
+      "site": "https://www.daydreamstudio.ai",
+      "instagram": "",
+      "confirmed": true,
+      "notes": "",
+      "sources": [{"label": "Grandes Nomes", "url": "https://grandesnomesdapropaganda.com.br/produtora/daydream-studio-ai-e-lancado-no-mercado/"}],
+      "contacts": [
+        {"name": "Rodrigo Sivieri", "role": "Direção executiva", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Rod Cauhi", "role": "Fundador, diretor de cena e DoP", "kind": "Criação", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "feito",
+      "name": "Feito",
+      "group": "Independente",
+      "country": "BR",
+      "city": "",
+      "focus": ["Produtora", "Estúdio", "Tech de GenAI"],
+      "site": "",
+      "instagram": "feito.ai",
+      "confirmed": true,
+      "notes": "",
+      "sources": [{"label": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/comunicacao/recem-lancada-feito-quer-unir-arte-e-genai-ao-audiovisual"}],
+      "contacts": [
+        {"name": "Vinicius Malinoski", "role": "Fundador e CEO (ex-CCO da Talent)", "kind": "Decisor", "priority": "Alta"}
+      ]
+    },
+    {
+      "id": "freitag",
+      "name": "Freitag",
+      "group": "Montag School",
+      "country": "BR",
+      "city": "",
+      "focus": ["Produção criativa com IA"],
+      "site": "https://freitag.agency",
+      "instagram": "freitag.agency",
+      "confirmed": true,
+      "notes": "Clientes: Hering, PatBO, Eudora, BTG, XP.",
+      "sources": [{"label": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/comunicacao/freitag-aposta-na-combinacao-de-ia-com-direcao-criativa"}, {"label": "Grandes Nomes", "url": "https://grandesnomesdapropaganda.com.br/mercado-digital/montag-school-lanca-produtora-criativa-especializada-em-ia/"}],
+      "contacts": [
+        {"name": "Bruno Deos", "role": "Diretor executivo", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Felipe Teixeira", "role": "Diretor criativo e sócio", "kind": "Criação", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "prosh",
+      "name": "Prosh Brasil",
+      "group": "Prosh (França)",
+      "country": "BR",
+      "city": "São Paulo",
+      "focus": ["IA", "Filmes híbridos", "Brasil–Europa"],
+      "site": "https://www.prosh.tv/pt/",
+      "instagram": "prosh.tv_",
+      "confirmed": true,
+      "notes": "Tem a Prosh.ai, frente de filmes híbridos ou 100% IA.",
+      "sources": [{"label": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/comunicacao/com-bella-campos-prosh-quer-fazer-da-ia-um-diferencial"}, {"label": "Grandes Nomes", "url": "https://grandesnomesdapropaganda.com.br/?p=215223"}],
+      "contacts": [
+        {"name": "Gustavo Tissot", "role": "Diretor geral e sócio", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Manon Stockler", "role": "Produção e direção executiva, sócia", "kind": "Produção", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "spirit",
+      "name": "SPIRIT Animation (SPIRIT TECH)",
+      "group": "Independente",
+      "country": "BR",
+      "city": "Curitiba",
+      "focus": ["Animação", "IA generativa", "3D"],
+      "site": "https://linktr.ee/spirit_animation",
+      "instagram": "spirit_animation",
+      "confirmed": true,
+      "notes": "SPIRIT TECH é o departamento de IA generativa.",
+      "sources": [{"label": "Marcas pelo Mundo", "url": "https://marcaspelomundo.com.br/produtoras/spirit-animation-cria-departamento-dedicado-a-ia-generativa-para-a-criacao-de-conteudo/"}],
+      "contacts": [
+        {"name": "Fernando Macedo", "role": "Fundador e CCO", "kind": "Decisor", "priority": "Alta"}
+      ]
+    },
+    {
+      "id": "miagui",
+      "name": "Miagui",
+      "group": "Independente",
+      "country": "BR",
+      "city": "",
+      "focus": ["3D", "CGI", "Animação"],
+      "site": "https://miagui.cc",
+      "instagram": "",
+      "confirmed": false,
+      "notes": "Provavelmente é o \"Miyagi\" que você citou: estúdio de produção criativa em 3D/CGI. Confirmar.",
+      "sources": [],
+      "contacts": []
+    },
+    {
+      "id": "o2",
+      "name": "O2 Filmes",
+      "group": "Independente",
+      "country": "BR",
+      "city": "São Paulo",
+      "focus": ["Modelos de IA internos", "Audiovisual"],
+      "site": "",
+      "instagram": "o2filmes",
+      "confirmed": true,
+      "notes": "Treina modelos de IA internos. Achar quem lidera a frente de IA.",
+      "sources": [{"label": "Times Brasil", "url": "https://timesbrasil.com.br/entretenimento/cinema-e-tv/ia-eleva-padrao-das-producoes-brasileiras/"}],
+      "contacts": [
+        {"name": "Paulo Barcellos", "role": "CEO", "kind": "Decisor", "priority": "Baixa"}
+      ]
+    },
+    {
+      "id": "euphoria",
+      "name": "Euphoria Creative",
+      "group": "Independente",
+      "country": "BR",
+      "city": "São Paulo",
+      "focus": ["Campanhas 100% IA e híbridas"],
+      "site": "https://euphoriacreative.com.br",
+      "instagram": "",
+      "confirmed": true,
+      "notes": "Fez campanha 100% IA para Ticket.",
+      "sources": [{"label": "NeoFeed", "url": "https://neofeed.com.br/videos/revolucao-ia/ia-nivela-agencias-de-publicidade-mas-nao-mata-a-experiencia-o-repertorio-e-a-criatividade-humana/"}],
+      "contacts": [
+        {"name": "Marcelo Rizério", "role": "CCO e cofundador", "kind": "Criação", "priority": "Média"},
+        {"name": "Caio Del Manto", "role": "CEO e cofundador", "kind": "Decisor", "priority": "Baixa"}
+      ]
+    },
+    {
+      "id": "saigon",
+      "name": "Saigon",
+      "group": "Independente",
+      "country": "BR",
+      "city": "São Paulo",
+      "focus": ["Produtora (IA a confirmar)"],
+      "site": "",
+      "instagram": "saigonfilmes",
+      "confirmed": false,
+      "notes": "Produtora forte, mas não achei núcleo de IA. Confirmar.",
+      "sources": [{"label": "Marcas pelo Mundo", "url": "https://marcaspelomundo.com.br/produtoras/saigon-anuncia-vokos-como-novo-diretor-de-cena-em-seu-casting/"}],
+      "contacts": [
+        {"name": "Victória Scaff", "role": "Produtora executiva / head of sales and strategy", "kind": "Novos negócios", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "prod-house",
+      "name": "Prod House",
+      "group": "Independente",
+      "country": "BR",
+      "city": "",
+      "focus": ["Filmes com IA"],
+      "site": "https://prodhouse.pro",
+      "instagram": "prodhouse_",
+      "confirmed": true,
+      "notes": "",
+      "sources": [{"label": "Site", "url": "https://prodhouse.pro/"}],
+      "contacts": []
+    },
+    {
+      "id": "youdare",
+      "name": "YouDare",
+      "group": "Grupo Dreamers",
+      "country": "BR",
+      "city": "",
+      "focus": ["Plataforma própria de IA (AIDare)"],
+      "site": "",
+      "instagram": "youdare.br",
+      "confirmed": true,
+      "notes": "",
+      "sources": [{"label": "Meio & Mensagem", "url": "https://www.meioemensagem.com.br/comunicacao/ia-ganha-estruturas-proprias-em-agencias-e-produtoras"}],
+      "contacts": []
+    },
+    {
+      "id": "fullsix",
+      "name": "Fullsix AI Lab",
+      "group": "Fullsix (Havas)",
+      "country": "PT",
+      "city": "Lisboa",
+      "focus": ["IA generativa", "Audiovisual"],
+      "site": "https://fullsix.pt",
+      "instagram": "fullsix_portugal",
+      "confirmed": true,
+      "notes": "Unidade de IA desde 2024.",
+      "sources": [{"label": "ECO", "url": "https://eco.sapo.pt/2024/07/05/fullsix-lanca-laboratorio-de-inteligencia-artificial-para-marcas-e-agencias-ceo-explica-a-estrategia/"}],
+      "contacts": [
+        {"name": "Erik Lassche", "role": "CEO", "kind": "Decisor", "priority": "Alta"}
+      ]
+    },
+    {
+      "id": "showoff-mola",
+      "name": "Show Off Films / MOLA",
+      "group": "Independente",
+      "country": "PT",
+      "city": "Lisboa",
+      "focus": ["Produção com IA", "Animação"],
+      "site": "https://showoff.pt",
+      "instagram": "showoff_mola",
+      "confirmed": true,
+      "notes": "Produtora fundada por um brasileiro.",
+      "sources": [{"label": "Update or Die", "url": "https://updateordie.com/2025/10/08/especies-celebra-os-criadores-humanos-da-publicidade-portuguesa/"}],
+      "contacts": [
+        {"name": "Tamiris Montenegro", "role": "Diretora-geral", "kind": "Decisor", "priority": "Alta"},
+        {"name": "Alexandre Montenegro", "role": "Fundador e diretor", "kind": "Criação", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "coming-soon",
+      "name": "Coming Soon",
+      "group": "Independente",
+      "country": "PT",
+      "city": "Lisboa",
+      "focus": ["Agência criativa", "Projetos com IA"],
+      "site": "https://coming-soon.pt",
+      "instagram": "comingsoonlisboa",
+      "confirmed": true,
+      "notes": "Um dos fundadores é brasileiro.",
+      "sources": [{"label": "Update or Die", "url": "https://updateordie.com/2025/10/08/especies-celebra-os-criadores-humanos-da-publicidade-portuguesa/"}],
+      "contacts": [
+        {"name": "Marcelo Lourenço", "role": "Cofundador", "kind": "Decisor", "priority": "Média"},
+        {"name": "Pedro Bexiga", "role": "Cofundador", "kind": "Decisor", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "the-hotel",
+      "name": "The Hotel",
+      "group": "Independente",
+      "country": "PT",
+      "city": "Lisboa",
+      "focus": ["Agência", "Fluxo próprio de IA generativa"],
+      "site": "https://www.thehotel.pt",
+      "instagram": "wearethehotel",
+      "confirmed": true,
+      "notes": "8 mil imagens e vídeos com IA para a Startup Portugal.",
+      "sources": [{"label": "Marketeer", "url": "https://marketeer.sapo.pt/mais-de-8-mil-imagens-e-videos-criados-com-ia-a-campanha-que-quer-vender-portugal-ao-mundo/"}],
+      "contacts": [
+        {"name": "Hélder Monteiro", "role": "Partner", "kind": "Decisor", "priority": "Alta"}
+      ]
+    },
+    {
+      "id": "funnyhow",
+      "name": "FunnyHow",
+      "group": "Independente",
+      "country": "PT",
+      "city": "",
+      "focus": ["Agência", "Filme 100% IA"],
+      "site": "https://www.funnyhow.pt",
+      "instagram": "funnyhowagency",
+      "confirmed": true,
+      "notes": "Fez o filme 100% IA da Domino's. Falta o nome do CEO.",
+      "sources": [{"label": "Marketeer", "url": "https://marketeer.sapo.pt/funnyhow-recorreu-a-ai-para-fazer-um-anuncio-ceo-da-agencia-explicou-como-decorreu-o-processo/"}],
+      "contacts": []
+    },
+    {
+      "id": "edson-ts",
+      "name": "Edson Tech & Soul",
+      "group": "Tech & Soul (SP)",
+      "country": "PT",
+      "city": "Lisboa",
+      "focus": ["Agência lusófona"],
+      "site": "https://edsonts.com.br",
+      "instagram": "",
+      "confirmed": true,
+      "notes": "Lançada em jun/2026. Ponte Brasil–Portugal.",
+      "sources": [{"label": "ECO", "url": "https://eco.sapo.pt/2026/05/18/fcb-lisboa-chega-ao-fim-edson-athayde-lanca-edson-tech-soul/"}],
+      "contacts": [
+        {"name": "Edson Athayde", "role": "Sócio", "kind": "Decisor", "priority": "Média"},
+        {"name": "Vera Barros", "role": "Sócia", "kind": "Decisor", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "incubeta",
+      "name": "Incubeta Portugal",
+      "group": "Incubeta",
+      "country": "PT",
+      "city": "Lisboa",
+      "focus": ["Creative services com IA"],
+      "site": "https://incubeta.com/pt-pt/",
+      "instagram": "incubeta_creative",
+      "confirmed": true,
+      "notes": "",
+      "sources": [{"label": "Marketeer", "url": "https://marketeer.sapo.pt/?p=414268"}],
+      "contacts": [
+        {"name": "Mariana Castro Barbedo", "role": "Responsável por Creative Services", "kind": "Decisor", "priority": "Média"}
+      ]
+    },
+    {
+      "id": "gcia",
+      "name": "GCIA",
+      "group": "GCIMedia Group",
+      "country": "PT",
+      "city": "",
+      "focus": ["IA aplicada à comunicação"],
+      "site": "https://gcimedia.pt",
+      "instagram": "",
+      "confirmed": true,
+      "notes": "",
+      "sources": [{"label": "ECO", "url": "https://eco.sapo.pt/2025/06/05/gcimedia-group-lanca-unidade-especializada-na-aplicacao-de-inteligencia-artificial/"}],
+      "contacts": []
+    }
+  ]
+}
